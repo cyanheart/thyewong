@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "876a052501021317298854d2bacb53a5",
+    "revision": "5ca0732e4ae207f551864c179cf1998e",
     "url": "/thyewong/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thyewong/static/css/2.3d285fa5.chunk.css"
   },
   {
-    "revision": "b6aa6655f9ca7d4c03e0",
+    "revision": "b0c59a983de1c2c86517",
     "url": "/thyewong/static/css/main.ea6e8249.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thyewong/static/js/2.cf9d2192.chunk.js.LICENSE"
   },
   {
-    "revision": "b6aa6655f9ca7d4c03e0",
-    "url": "/thyewong/static/js/main.f77e8efc.chunk.js"
+    "revision": "b0c59a983de1c2c86517",
+    "url": "/thyewong/static/js/main.525bc0ed.chunk.js"
   },
   {
     "revision": "563d778799b155e65979",
