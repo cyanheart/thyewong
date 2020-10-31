@@ -12,7 +12,6 @@ const Products = () => {
           <div className="col my-5">
             <h1
               className="cover-heading"
-              style={{ color: "#00378a", fontSize: "5em" }}
             >
               Products
             </h1>

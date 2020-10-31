@@ -1,7 +1,5 @@
 import React from "react";
-import { HashRouter, Route, Redirect, Switch } from "react-router-dom";
 import Home from "./components/home";
-import NotFound from "./components/notFound";
 
 function App() {
   return <Home/>
