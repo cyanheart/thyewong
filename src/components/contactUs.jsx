@@ -74,63 +74,6 @@ const ContactUs = () => {
                         </span>
                 </div>
                 </div>
-              {/* <table className="table" style={{ margin: "0px" }}>
-                <tbody>
-                  <tr>
-                    <td>
-                      <div className="row justify-content-center">
-                        <FontAwesomeIcon
-                          icon={faPhone}
-                          size="2x"
-                          color="#00378a"
-                        />
-                        <span style={{ marginLeft: "10px" }} className="lead">
-                          603-79811087
-                        </span>
-                      </div>
-                    </td>
-                    <td>
-                      <div className="row justify-content-center">
-                        <FontAwesomeIcon
-                          icon={faFax}
-                          size="2x"
-                          color="#00378a"
-                        />
-                        <span style={{ marginLeft: "10px" }} className="lead">
-                          603-79809429
-                        </span>
-                      </div>
-                    </td>
-                    <td>
-                      <div className="row justify-content-center">
-                        <FontAwesomeIcon
-                          icon={faEnvelope}
-                          size="2x"
-                          color="#00378a"
-                        />
-                        <span style={{ marginLeft: "10px" }} className="lead">
-                          thyewong@po.jaring.my
-                        </span>
-                      </div>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td colSpan="3">
-                      <div className="row justify-content-center">
-                        <FontAwesomeIcon
-                          icon={faHome}
-                          size="2x"
-                          color="#00378a"
-                        />
-                        <span style={{ marginLeft: "10px" }} className="lead">
-                          15, Jalan 1/116B, Kuchai Entrepreneurs' Park, Off
-                          Jalan Kuchai Lama, 58200 Kuala Lumpur, Malaysia
-                        </span>
-                      </div>
-                    </td>
-                  </tr>
-                </tbody>
-              </table> */}
             </div>
             <div className="row flex-grow-1">
               <GoogleMapReact

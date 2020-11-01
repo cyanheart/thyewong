@@ -24,7 +24,7 @@ const Home = () => {
               Thye Wong
             </h1>
             <p style={{ fontSize: "1rem" }}>
-              Since the establishment of this company in 1991 we have been
+              Since the establishment of this company in 1991, we have been
               making our best efforts to serve the general industries sector
               base on the theme "inifiate automation creating a better
               production for all factories".
